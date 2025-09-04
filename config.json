@@ -1,0 +1,12 @@
+{
+    "source_directory": "/Users/jacopomarcon/Downloads",
+    "folders": {
+      "Documents": [".pdf", ".docx", ".txt"],
+      "Images": [".jpg", ".jpeg", ".png", ".gif"],
+      "Videos": [".mp4", ".mov", ".avi"],
+      "Music": [".mp3", ".wav"],
+      "Archives": [".zip", ".rar", ".tar"],
+      "Scripts": [".py", ".js", ".sh"]
+    }
+  }
+  
